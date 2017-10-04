@@ -1,2 +1,2 @@
 # hello-git
-Test Hello Git
+This is a test Repo for learning Github usage
